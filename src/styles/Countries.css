@@ -6,8 +6,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: linear-gradient(to right, #142d81ef, #3d5abbec);
-  border: 1px solid #112b80;
+  background: #b13968;
+  border: 1px solid #fc5193;
   width: 49.5%;
   height: 200px;
   color: #fff;

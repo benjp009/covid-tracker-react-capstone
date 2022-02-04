@@ -7,7 +7,7 @@ import Header from './Header';
 import Footer from './Footer';
 
 const HomePage = () => {
-  const heading = 'COVID19 statestics';
+  const heading = 'Worldwide COVID19 statistics';
   const covid19Data = useSelector((state) => state.covid19Data.countriesData);
   const globalData = useSelector((state) => state.covid19Data.globalData);
   const dispatch = useDispatch();
@@ -23,9 +23,9 @@ const HomePage = () => {
           <img src={Banner} alt="COVID19" className="img-banner" />
           <div className="banner-details">
             <h2 className="banner-h2">
-              COVID19 statestics
+              COVID19 statistics
               <br />
-              Over the world
+              worldwide
             </h2>
             <h3 className="banner-h3">{globalData.TotalConfirmed}</h3>
             <h4 className="banner-h4">{globalData.Date}</h4>

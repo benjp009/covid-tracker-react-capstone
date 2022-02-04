@@ -12,12 +12,12 @@
 .details-div {
   display: flex;
   justify-content: space-between;
-  background: linear-gradient(to right, #112b80, #3d5abb);
-  border: 1px solid #112b80;
+  background: #b13968;
+  border: 1px solid #b13968;
 }
 
 .details-div:nth-child(even) {
-  background: linear-gradient(to right, #3d5abb, #112b80);
+  background: #fc5193;
 }
 
 .detail-name,
