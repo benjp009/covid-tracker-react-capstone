@@ -8,8 +8,6 @@ import './styles/Header.css';
 import './styles/Footer.css';
 import './styles/HomePage.css';
 
-
-
 function App() {
   return (
     <Routes>
