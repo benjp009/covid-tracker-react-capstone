@@ -14,7 +14,7 @@ Object {
           <h3
             class="header-h3"
           >
-            COVID19 statestics
+            Worldwide COVID19 statistics
           </h3>
           <div
             class="header-icons"
@@ -62,7 +62,7 @@ Object {
           <img
             alt="COVID19"
             class="img-banner"
-            src="Banner.jpeg"
+            src="Banner.jpg"
           />
           <div
             class="banner-details"
@@ -70,9 +70,9 @@ Object {
             <h2
               class="banner-h2"
             >
-              COVID19 statestics
+              COVID19 statistics
               <br />
-              Over the world
+              worldwide
             </h2>
             <h3
               class="banner-h3"
@@ -116,9 +116,9 @@ Object {
           </span>
           <a
             class="footer-link"
-            href="https://github.com/thecodechaser"
+            href="https://github.com/benjp009"
           >
-             Ranjeet Singh
+             Benjamin Patin
           </a>
         </h3>
       </footer>
@@ -135,7 +135,7 @@ Object {
         <h3
           class="header-h3"
         >
-          COVID19 statestics
+          Worldwide COVID19 statistics
         </h3>
         <div
           class="header-icons"
@@ -183,7 +183,7 @@ Object {
         <img
           alt="COVID19"
           class="img-banner"
-          src="Banner.jpeg"
+          src="Banner.jpg"
         />
         <div
           class="banner-details"
@@ -191,9 +191,9 @@ Object {
           <h2
             class="banner-h2"
           >
-            COVID19 statestics
+            COVID19 statistics
             <br />
-            Over the world
+            worldwide
           </h2>
           <h3
             class="banner-h3"
@@ -237,9 +237,9 @@ Object {
         </span>
         <a
           class="footer-link"
-          href="https://github.com/thecodechaser"
+          href="https://github.com/benjp009"
         >
-           Ranjeet Singh
+           Benjamin Patin
         </a>
       </h3>
     </footer>
