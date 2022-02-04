@@ -3,19 +3,22 @@
 
 > Covid19 Metrics is a web application that fectches covid data from API and renders on the screen. It shows all countries with the confirmed covid cases on the homepage, Users can select any country and goto the details page. Details page shows other details for that specific country like recovered cases, confirmed cases, deaths.
 
+![Screenshot - 4 February 2022](https://user-images.githubusercontent.com/31847346/152550745-e2f215a4-9422-4e46-96c7-59764f51a927.gif)
+
+
 ## Screenshots:
 
 ### Mobile
 
-![screenshot](./src/asset/Screenshot1.png)
+![screenshot](./src/assets/Screenshot1.png)
 
-![screenshot](./src/asset/Screenshot2.png)
+![screenshot](./src/assets/Screenshot2.png)
 
 ### Desktop
 
-![screenshot](./src/asset/Screenshot3.png)
+![screenshot](./src/assets/Screenshot3.png)
 
-![screenshot](./src/asset/Screenshot4.png)
+![screenshot](./src/assets/Screenshot4.png)
 
 ## Built With
 
