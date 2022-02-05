@@ -1,6 +1,8 @@
 
 # Covid19 Metrics
 
+[Video presentation of the project](https://www.loom.com/share/9bd7dc065ee8469e9f89044dfa0007d1)
+
 > Covid19 Metrics is a web application that fectches covid data from API and renders on the screen. It shows all countries with the confirmed covid cases on the homepage, Users can select any country and goto the details page. Details page shows other details for that specific country like recovered cases, confirmed cases, deaths.
 
 ![Screenshot - 4 February 2022](https://user-images.githubusercontent.com/31847346/152550745-e2f215a4-9422-4e46-96c7-59764f51a927.gif)
@@ -33,7 +35,6 @@
 ## Online live link
 
 [Visit project online](https://brave-keller-27adb6.netlify.app/)
-[Video presentation of the project](https://www.loom.com/share/9bd7dc065ee8469e9f89044dfa0007d1)
 
 ## Getting Started
 
