@@ -2,7 +2,7 @@
   "name": "covid-tracker-react-capstone",
   "homepage": "covid-tracker-react-capstone",
   "version": "0.1.0",
-  "homepage": "https://benjp009.github.io/covid-tracker-react-capstone/",
+  "homepage": "https://covid-tracker-capstone.netlify.app",
   "private": true,
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
@@ -25,8 +25,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "npm run start",
+    "build": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
