@@ -32,7 +32,7 @@
 
 ## Online live link
 
-[Visit project online](https://benjp009.github.io/covid-tracker-react-capstone/)
+[Visit project online](https://brave-keller-27adb6.netlify.app/)
 
 ## Getting Started
 
