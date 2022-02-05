@@ -33,6 +33,7 @@
 ## Online live link
 
 [Visit project online](https://brave-keller-27adb6.netlify.app/)
+[Video presentation of the project](https://www.loom.com/share/9bd7dc065ee8469e9f89044dfa0007d1)
 
 ## Getting Started
 
