@@ -1,6 +1,5 @@
 {
   "name": "covid-tracker-react-capstone",
-  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
